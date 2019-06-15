@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BackEndSpringAPI
+Implementation-Version: 2.1.3
+Built-By: academy_intern
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/gs-rest-service-cors
+Created-By: Maven Integration for Eclipse
+
